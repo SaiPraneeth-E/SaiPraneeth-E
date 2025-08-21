@@ -79,9 +79,10 @@ Cooking | Photography | Travelling | Sports | Movies | Current Affairs
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[[SaiPraneeth-E](https://github.com/SaiPraneeth-E/SaiPraneeth-E/)]&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiPraneeth-E&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[[SaiPraneeth-E](https://github.com/SaiPraneeth-E/SaiPraneeth-E/)]&theme=tokyonight" alt="github streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPraneeth-E&theme=tokyonight" alt="github streak stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[[SaiPraneeth-E](https://github.com/SaiPraneeth-E/SaiPraneeth-E/)]&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPraneeth-E&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
+
