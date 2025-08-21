@@ -85,4 +85,3 @@ Cooking | Photography | Travelling | Sports | Movies | Current Affairs
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPraneeth-E&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
-make this more visually applealing make that stats boxes look smae size in my github make the read.md file look more visually appleaing with vfx
