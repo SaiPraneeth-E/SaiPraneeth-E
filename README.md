@@ -1,88 +1,128 @@
 <div align="center">
-  <h1>EDUPULAPATI SAI PRANEETH</h1>
-  <p>
-    <strong>+91 8977771494 | <a href="mailto:[YOUR_EMAIL]">Email</a> | <a href="[YOUR_GITHUB_URL]" target="_blank">GitHub</a> | <a href="[YOUR_LINKEDIN_URL]" target="_blank">LinkedIn</a></strong>
-  </p>
+
+# ​​​ EDUPULAPATI SAI PRANEETH
+
+📞 +91 8977771494 | 📧 [Email](mailto:YOUR_EMAIL) | 🌐 [GitHub](https://github.com/SaiPraneeth-E) | 🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+## ​ About Me  
+Motivated **Computer Science student (AI/ML)** skilled in **Java & Python**, with experience in building scalable applications. Actively seeking opportunities to contribute and grow as a **Software / AI Developer Intern**.
+
 </div>
 
 ---
 
-### <p align="center">About Me</p>
+## ​​ Technical Skills
 
-<p align="center">
-  Motivated Computer Science student specializing in AI/ML with a strong grasp of software development, data structures, and object-oriented programming. Skilled in Java and Python, with experience building scalable applications. I am actively looking for opportunities to contribute and grow as a software developer and AI developer intern in challenging and innovative environments.
-</p>
-
----
-
-### 🛠️ Technical Skills
-
-| Category          | Skills                                                                                    |
-|-------------------|-------------------------------------------------------------------------------------------|
-| **Languages**     | `Java`, `Python`, `C`, `HTML`, `CSS`, `SQL`                                                   |
-| **Concepts**      | `Object-Oriented Programming`, `Agile`, `SDLC`                                              |
-| **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Google Colab`                                                |
-| **AI Tools**      | `ChatGPT`, `Firebase Studio`, `Gemini AI Studio`, `Copilot`, `Claude AI`, `Perplexity AI`    |
+| Category              | Skills                                                                 |
+|-----------------------|------------------------------------------------------------------------|
+| **Languages**         | `Java`, `Python`, `C`, `HTML`, `CSS`, `SQL`                           |
+| **Concepts**          | `OOP`, `Agile`, `SDLC`                                                |
+| **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Google Colab`                            |
+| **AI Tools**          | `ChatGPT`, `Gemini`, `Claude`, `Firebase Studio`, `Copilot`, `Perplexity` |
 
 ---
 
-### 🚀 Projects
+##  Projects
 
-| Project Name                        | Description                                                                                             | Key Features                                                                                                 | Technologies                             | Link                               |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------------------|
-| **Employee Salary Prediction App**  | Developed an ML/DL model to classify employee income and deployed it as an interactive web app.         | - Data preprocessing, EDA, and feature engineering. <br/> - Deployed via Streamlit with single/batch predictions. | `Python`, `Streamlit`, `Ngrok`           | [GitHub]([LINK_TO_YOUR_REPO])      |
-| **Automated Headlight System**      | A smart automotive system using an LED matrix and servo motors to reduce glare for oncoming traffic.      | - Auto-adjusts beam direction based on light/obstacles. <br/> - Enhances road safety by reducing glare.         | `LDR Sensors`, `Servo Motors`, `LED Matrix` | Team Project                       |
-| **Language Translator Web App**     | A web application that translates text across multiple languages using API integration.                   | - Clean, responsive UI. <br/> - Utilizes an external API for real-time translations.                          | `HTML`, `CSS`, `JavaScript`, `API`       | [GitHub]([LINK_TO_YOUR_REPO])      |
-| **Weather Forecasting Website**     | A responsive website providing real-time weather data for any location.                                 | - Integrated API for live weather data. <br/> - Responsive UI for desktop and mobile users.                   | `HTML`, `CSS`, `JavaScript`, `Flask`     | [GitHub]([LINK_TO_YOUR_REPO])      |
+<table>
+<tr>
+<td>
 
----
+### ​ [Employee Salary Prediction App](https://github.com/SaiPraneeth-E)  
+ML/DL model to classify employee income & deployed as an interactive web app.  
+**Features**: EDA, preprocessing, Streamlit deployment  
+**Tech**: `Python`, `Streamlit`, `Ngrok`
 
-### 🎓 Education
+</td>
+<td>
 
-| Degree/Certificate      | Institute/Board                          | CGPA/Percentage      | Year          |
-|-------------------------|------------------------------------------|----------------------|---------------|
-| **B.Tech (CSE with AI/ML)** | VIT-AP University                        | 8.25 (Current CGPA)  | 2023 – Present |
-| **Intermediate (MPC)**  | Narayana Junior College (AP Board)       | 92.9%                | 2023          |
-| **Class X (CBSE)**      | Avenues CBSE School                      | 77.9%                | 2021          |
+### ​ [Automated Headlight System](https://github.com/SaiPraneeth-E/AUTOMATED-HEADLIGHT-USING-LED-MATRIX-SYSTEM)  
+Smart LED-based headlight system to reduce glare for oncoming traffic.  
+**Features**: Auto-adjusting beam, glare reduction  
+**Tech**: `LDR Sensors`, `Servo Motors`, `LED Matrix`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
-### 📜 Certifications
+### ​ [Language Translator Web App](https://github.com/SaiPraneeth-E)  
+Web app for multilingual translation using external APIs.  
+**Features**: Responsive clean UI, real-time API translation  
+**Tech**: `HTML`, `CSS`, `JavaScript`
 
-- **Gen AI and ChatGPT** – BlackBucks Group
-- **Data Analysis with Python** – Cognitive Class
-- **Prompt Engineering** – DeepLearning.AI
-- **Agile Scrum in Practice** – Infosys Springboard
-- **AI Fundamentals** – IBM SkillsBuild
-- **AWS Cloud Practitioner Essentials** – Amazon Web Services
+</td>
+<td>
 
----
+### ​​ [Weather Forecasting Website](https://github.com/SaiPraneeth-E)  
+Responsive site offering real-time weather data for any location.  
+**Features**: Live weather API integration, cross-device UI  
+**Tech**: `HTML`, `CSS`, `Flask`, `JavaScript`
 
-### 🌟 Co-Curricular Activities & Leadership
-
-- **Core Team Member** – Vitopia 2025
-- **Vice President** – ICMC Club (2024 – 2025)
-- **Correspondent** – Chaitra Telugu Association (2024 – Present)
-- **Core Team Member** – Photography Club, VIT-AP (2024 – Present)
-- **Marketing Team Member** – GFG Student Chapter, VIT-AP (2024)
-
----
-
-### 🎨 Hobbies & Interests
-
-<p align="center">
-Cooking | Photography | Travelling | Sports | Movies | Current Affairs
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 My GitHub Stats
+##  Popular & Other Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiPraneeth-E&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPraneeth-E&theme=tokyonight" alt="github streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPraneeth-E&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
+- [Hangman_Game](https://github.com/SaiPraneeth-E/Hangman_Game)  
+- [CodeAlpha_Hangman](https://github.com/SaiPraneeth-E/CodeAlpha_Hangman)  
+- [CodeAlpha_Basic_chatbot](https://github.com/SaiPraneeth-E/CodeAlpha_Basic_chatbot)  
+- [Blackjack_Game](https://github.com/SaiPraneeth-E/Blackjack_Game)  
+- [vit-course-reg-planner](https://github.com/SaiPraneeth-E/vit-course-reg-planner) — forked from suryatejess  
 
+---
+
+##  Education
+
+| Degree / Certificate    | Institute / Board             | CGPA / Percentage | Year          |
+|--------------------------|-------------------------------|-------------------|---------------|
+| **B.Tech (CSE – AI/ML)** | VIT-AP University             | 8.25 (Current)    | 2023–Present  |
+| **Intermediate (MPC)**   | Narayana Junior College (AP) | 92.9%             | 2023          |
+| **Class X (CBSE)**       | Avenues CBSE School          | 77.9%             | 2021          |
+
+---
+
+##  Certifications
+- Gen AI and ChatGPT – BlackBucks Group  
+- Data Analysis with Python – Cognitive Class  
+- Prompt Engineering – DeepLearning.AI  
+- Agile Scrum in Practice – Infosys Springboard  
+- AI Fundamentals – IBM SkillsBuild  
+- AWS Cloud Practitioner Essentials – Amazon Web Services  
+
+---
+
+##  Leadership & Activities
+- Core Team Member – Vitopia 2025  
+- Vice President – ICMC Club (2024–2025)  
+- Correspondent – Chaitra Telugu Association (2024–Present)  
+- Core Team Member – Photography Club, VIT-AP (2024–Present)  
+- Marketing Team Member – GFG Student Chapter (2024)  
+
+---
+
+##  Hobbies & Interests
+🎬 Movies | 📸 Photography | ✈️ Travelling | 🍳 Cooking | 📰 Current Affairs | ⚽ Sports  
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SaiPraneeth-E&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SaiPraneeth-E&theme=tokyonight&hide_border=false" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPraneeth-E&layout=compact&theme=tokyonight&hide_border=false" height="180em" />
+
+</div>
+
+---
+
+<div align="center">
+⭐ *“Code. Learn. Innovate. Repeat.”* ⭐  
+</div>
