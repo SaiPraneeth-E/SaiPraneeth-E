@@ -28,8 +28,6 @@
 | **Tools & Platforms**    | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Streamlit, Vercel |
 | **AI Tools**             | ChatGPT, Firebase Studio, Gemini AI Studio, GitHub Copilot, Claude AI, Perplexity AI |
 | **Productivity Tools**   | MS Excel, Word, PowerPoint |
-|
-
 ---
 
 ### 🚀 Projects
