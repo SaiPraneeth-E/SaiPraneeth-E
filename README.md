@@ -17,12 +17,18 @@
 
 ### 🛠️ Technical Skills
 
-| Category          | Skills                                                                                    |
-|-------------------|-------------------------------------------------------------------------------------------|
-| **Languages**     | `Java`, `Python`, `C`, `HTML`, `CSS`, `SQL`                                                   |
-| **Concepts**      | `Object-Oriented Programming`, `Agile`, `SDLC`                                              |
-| **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Google Colab`                                                |
-| **AI Tools**      | `ChatGPT`, `Firebase Studio`, `Gemini AI Studio`, `Copilot`, `Claude AI`, `Perplexity AI`    |
+| **Category**              | **Skills** |
+|--------------------------|------------|
+| **Programming Languages** | Python (Pandas, NumPy, Matplotlib, TensorFlow), Java, C, C++, SQL |
+| **AI / ML**              | Machine Learning Models, Large Language Models (LLMs), Generative AI, Prompt Engineering |
+| **Web Technologies**     | HTML, CSS |
+| **Databases**            | SQL |
+| **Core Concepts**        | Data Structures & Algorithms, Object-Oriented Programming (OOP), SDLC, Operating Systems, Computer Networking, Agile, User-Centered Design |
+| **Cloud Technologies**   | AWS (EC2, VPC, S3, RDS), Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI) |
+| **Tools & Platforms**    | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Streamlit, Vercel |
+| **AI Tools**             | ChatGPT, Firebase Studio, Gemini AI Studio, GitHub Copilot, Claude AI, Perplexity AI |
+| **Productivity Tools**   | MS Excel, Word, PowerPoint |
+|
 
 ---
 
