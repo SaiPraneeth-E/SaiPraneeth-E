@@ -30,7 +30,6 @@
 | **Productivity Tools**   | MS Excel, Word, PowerPoint |
 ---
 
-### 🚀 Projects
 ## 🚀 Key Projects
 
 | Project Name | Description | Key Features | Technologies | Link |
