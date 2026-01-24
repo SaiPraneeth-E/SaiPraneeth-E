@@ -31,13 +31,18 @@
 ---
 
 ### 🚀 Projects
+## 🚀 Key Projects
 
-| Project Name                        | Description                                                                                             | Key Features                                                                                                 | Technologies                             | Link                               |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------------------|
-| **Employee Salary Prediction App**  | Developed an ML/DL model to classify employee income and deployed it as an interactive web app.         | - Data preprocessing, EDA, and feature engineering. <br/> - Deployed via Streamlit with single/batch predictions. | `Python`, `Streamlit`, `Ngrok`           | [GitHub]([LINK_TO_YOUR_REPO])      |
-| **Automated Headlight System**      | A smart automotive system using an LED matrix and servo motors to reduce glare for oncoming traffic.      | - Auto-adjusts beam direction based on light/obstacles. <br/> - Enhances road safety by reducing glare.         | `LDR Sensors`, `Servo Motors`, `LED Matrix` | Team Project                       |
-| **Language Translator Web App**     | A web application that translates text across multiple languages using API integration.                   | - Clean, responsive UI. <br/> - Utilizes an external API for real-time translations.                          | `HTML`, `CSS`, `JavaScript`, `API`       | [GitHub]([LINK_TO_YOUR_REPO])      |
-| **Weather Forecasting Website**     | A responsive website providing real-time weather data for any location.                                 | - Integrated API for live weather data. <br/> - Responsive UI for desktop and mobile users.                   | `HTML`, `CSS`, `JavaScript`, `Flask`     | [GitHub]([LINK_TO_YOUR_REPO])      |
+| Project Name | Description | Key Features | Technologies | Link |
+|-------------|-------------|--------------|--------------|------|
+| **AuditX – AI-Powered Government Auditing Platform** | Built an AI-driven platform to automate financial audits, detect anomalies, and enhance transparency in public-sector expenditures. | - Automated audit workflows using AI<br>- Financial anomaly detection<br>- Transparency-focused analytics | Python, Machine Learning, AI, Data Analytics | [GitHub](https://github.com/SaiPraneeth-E/AuditX) |
+| **BudgetWise – AI-Based Expense Tracker** | Developed predictive models to analyze user spending patterns and generate accurate future expense forecasts. | - Expense categorization<br>- Spending trend analysis<br>- Predictive forecasting | Python, Machine Learning, Data Analysis | [GitHub](https://github.com/SaiPraneeth-E/BudgetWise-AI) |
+| **Quantapath – Quantum-Inspired Delivery Route Optimization** | Designed a quantum-inspired logistics optimization system to compute efficient delivery routes, reducing travel time, fuel costs, and emissions. | - Solves TSP/VRP routing problems<br>- Real-time route adaptability<br>- Cost and emission optimization | Python, Optimization Algorithms, Quantum-Inspired Computing | [GitHub](https://github.com/SaiPraneeth-E/QuantaPath) |
+| **LangMate – Language Translator Web Application** | Built scalable multilingual REST APIs to enable real-time language translation and improve global accessibility. | - Multilingual REST APIs<br>- Real-time translation support<br>- Scalable backend design | HTML, CSS, JavaScript, REST APIs | [GitHub](https://github.com/SaiPraneeth-E/BlackBuck_Language_Translator) |
+| **Employee Salary Prediction App** | Developed a machine learning model to classify employee income levels and deployed it as an interactive web application. | - Data preprocessing and EDA<br>- Feature engineering<br>- Single & batch predictions via web UI | Python, Machine Learning, Streamlit, Ngrok | [GitHub](https://github.com/SaiPraneeth-E/Employee_Salary_Prediction) |
+| **Automated Headlight System** | Built a smart automotive system using sensors and actuators to reduce glare for oncoming vehicles and improve road safety. | - Automatic beam direction adjustment<br>- Obstacle and light detection<br>- Enhanced night driving safety | LDR Sensors, Servo Motors, LED Matrix, Arduino | Team Project |
+| **Weather Forecasting Website** | Created a responsive web application that provides real-time weather data for any user-specified location. | - Live weather API integration<br>- Responsive UI<br>- Location-based forecasts | HTML, CSS, JavaScript, Flask | [GitHub](https://github.com/SaiPraneeth-E/Weather-Forecasting-Website) |
+
 
 ---
 
