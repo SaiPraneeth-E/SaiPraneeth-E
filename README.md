@@ -50,7 +50,7 @@
 
 | Degree/Certificate      | Institute/Board                          | CGPA/Percentage      | Year          |
 |-------------------------|------------------------------------------|----------------------|---------------|
-| **B.Tech (CSE with AI/ML)** | VIT-AP University                        | 8.25 (Current CGPA)  | 2023 – Present |
+| **B.Tech (CSE with AI/ML)** | VIT-AP University                        | 8.35 (Current CGPA)  | 2023 – Present |
 | **Intermediate (MPC)**  | Narayana Junior College (AP Board)       | 92.9%                | 2023          |
 | **Class X (CBSE)**      | Avenues CBSE School                      | 77.9%                | 2021          |
 
