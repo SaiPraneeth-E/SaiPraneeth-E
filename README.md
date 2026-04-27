@@ -12,8 +12,9 @@
 <p align="center">
   Motivated Computer Science student specializing in AI/ML with a strong grasp of software development, data structures, and object-oriented programming. Skilled in Java and Python, with experience building scalable applications. I am actively looking for opportunities to contribute and grow as a software developer and AI developer intern in challenging and innovative environments.
 </p>
+
 ---
-## 💼 Work Experience
+### 💼 Work Experience
 
 **AI and ML Intern | Infosys Springboard**  
 
