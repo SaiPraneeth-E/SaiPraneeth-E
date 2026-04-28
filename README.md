@@ -67,7 +67,7 @@
 
 ### 📜 Certifications
 
-- **AWS Certified Solutions Architect Associate **  – Amazon Web Services
+- **AWS Certified Solutions Architect Associate**  – Amazon Web Services
 - **Oracle Cloud Infrastructure Foundations Associate** - Oracle
 - **Oracle Cloud Infrastructure Generative AI Professional** - Oracle
 - **Gen AI and ChatGPT** – BlackBucks Group
